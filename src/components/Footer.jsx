@@ -67,7 +67,7 @@ export default Footer
 
 const Container = styled.div`
  display: flex;
- margin-bottom: 9rem;
+ margin-bottom: 2rem;
  ${mobile({ flexDirection: "column" })};
  
  
