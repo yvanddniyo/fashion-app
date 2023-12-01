@@ -28,10 +28,10 @@ const Cart = () => {
               <ProductDetail>
                 <Image src='https://images.pexels.com/photos/65676/nanjing-studio-jeans-65676.jpeg?auto=compress&cs=tinysrgb&w=600' />
                 <Details>
-                  <ProductName> <b>Product:</b>Jeans</ProductName>
-                  <ProductId> <b>Id:</b>21234567</ProductId>
+                  <ProductName> <b>Product:</b> Jeans</ProductName>
+                  <ProductId> <b>Id:</b> 21234567</ProductId>
                   <ProductColor color='black' />
-                  <ProductSize><b>Size: </b>37.5</ProductSize>
+                  <ProductSize><b>Size: </b> 37.5</ProductSize>
                 </Details>
               </ProductDetail>
               <PriceDetail>
@@ -48,10 +48,10 @@ const Cart = () => {
               <ProductDetail>
                 <Image src='https://images.pexels.com/photos/6046198/pexels-photo-6046198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' />
                 <Details>
-                  <ProductName> <b>Product:</b>Shirt</ProductName>
-                  <ProductId> <b>Id:</b>21234567</ProductId>
+                  <ProductName> <b>Product:</b> Shirt</ProductName>
+                  <ProductId> <b>Id:</b> 21234567</ProductId>
                   <ProductColor color='black' />
-                  <ProductSize><b>Size: </b>17.5</ProductSize>
+                  <ProductSize><b>Size: </b> 17.5</ProductSize>
                 </Details>
               </ProductDetail>
               <PriceDetail>

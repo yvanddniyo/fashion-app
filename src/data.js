@@ -22,23 +22,26 @@ export const sliderItems = [
   }
 ];
 
-export const  categories = [
+export const  category = [
 
 { id: 1,
   img:"https://images.pexels.com/photos/18941371/pexels-photo-18941371/free-photo-of-man-wearing-shirt-in-a-harbor.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  title: "SHIRT STYLE!"
+  title: "SHIRT STYLE!",
+  cat: "Shirts"
 },
 
 {
   id: 2,
   img:"https://images.pexels.com/photos/18983992/pexels-photo-18983992/free-photo-of-portrait-of-woman-wearing-colorful-dress.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  title: "WOMEN DRESS"
+  title: "WOMEN DRESS",
+  cat: "women"
 },
 
 {
-  id: 1,
+  id: 3,
   img:"https://images.pexels.com/photos/1833082/pexels-photo-1833082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  title: "LIGHT JACKETS"
+  title: "LIGHT JACKETS",
+  cat: "Coat"
 },
 
 ];
