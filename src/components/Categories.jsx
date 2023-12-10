@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { category } from '../data';
+import { categories } from '../data';
 import CategoryItem from './CategoryItem';
 import { mobile } from '../responsive';
 
@@ -8,7 +8,7 @@ const Categories = () => {
   return (
     <Container>
       {
-        category.map((item => (
+        categories.map((item => (
           <CategoryItem item={item} key={item.id} />
         )))
       }
