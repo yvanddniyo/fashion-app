@@ -22,7 +22,7 @@ export const sliderItems = [
   }
 ];
 
-export const  category = [
+export const  categories = [
 
 { id: 1,
   img:"https://images.pexels.com/photos/18941371/pexels-photo-18941371/free-photo-of-man-wearing-shirt-in-a-harbor.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
